@@ -1,0 +1,30 @@
+// Master Yamaha CF3
+
+
+<master>
+locc64=0 hicc64=42
+#include "Pedal_off.sfz"
+
+<master>
+locc64=43 hicc64=84
+#include "Pedal_half_on.sfz"
+
+<master>
+locc64=85 hicc64=127
+#include "Pedal_on.sfz"
+
+<master>
+locc64=0 hicc64=42
+locc67=64 hicc67=127
+#include "Pedal_off-soft.sfz"
+
+<master>
+locc64=43 hicc64=84
+locc67=64 hicc67=127
+#include "Pedal_half_on-soft.sfz"
+
+<master>
+locc64=85 hicc64=127
+locc67=64 hicc67=127
+#include "Pedal_on-soft.sfz"
+

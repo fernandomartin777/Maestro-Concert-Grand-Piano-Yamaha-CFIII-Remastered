@@ -1,0 +1,35 @@
+// Master Yamaha CF3
+
+<global>
+sustain_lo=64
+
+<master>
+locc64=0 hicc64=42
+locc67=0 hicc67=63
+#include "Pedal_off_WT.sfz"
+
+<master>
+locc64=43 hicc64=84
+locc67=0 hicc67=63
+#include "Pedal_half_on_WT.sfz"
+
+<master>
+locc64=85 hicc64=127
+locc67=0 hicc67=63
+#include "Pedal_on_WT.sfz"
+
+<master>
+locc64=0 hicc64=42
+locc67=64 hicc67=127
+#include "Pedal_off-soft_WT.sfz"
+
+<master>
+locc64=43 hicc64=84
+locc67=64 hicc67=127
+#include "Pedal_half_on-soft_WT.sfz"
+
+<master>
+locc64=85 hicc64=127
+locc67=64 hicc67=127
+#include "Pedal_on-soft_WT.sfz"
+
