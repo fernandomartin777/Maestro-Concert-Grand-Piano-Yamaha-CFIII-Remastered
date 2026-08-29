@@ -10,4 +10,4 @@ on May 16, 2020 via e-mail.
 
 This version is a fork from kinwie's project. Samples were normalized and other functions were added using the same samples: realistic simulated sympathetic resonance that responds to half and full sustain pedal, simulated soft pedal with and without resonances and round robins generated from adjacent keys. Therefore, this remastered version, very likely, turns the original instrument into the best free piano sound library available online.
 
-August 29, 2026
+August 29th, 2026
