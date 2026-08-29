@@ -1,4 +1,4 @@
-# The Maestro Concert Grand Piano
+# The Maestro Concert Grand Piano Yamaha CFIII Remastered
 
 This is a sampled reproduction of a Yamaha CFIII concert grand
 piano from the early 90s. It was chromatically sampled,
