@@ -3,6 +3,10 @@
 <global>
 sustain_lo=64
 
+<control>
+set_cc67=0
+set_cc64=0
+
 <master>
 locc64=0 hicc64=42
 locc67=0 hicc67=63
